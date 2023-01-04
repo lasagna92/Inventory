@@ -12,8 +12,9 @@ In the inventory.txt there are the following information:
 * Code
 * Product
 * Cost
-* Quantity 
-* Value 
+* Quantity  
+### Screenshot
+![inventory.txt](https://github.com/lasagna92/finalCapstone/blob/f102d4f40c302c3e591b3875ca95eeff49889369/2023-01-04%20(1).png)
 
 The programm displays a menu where the user can choose between the following options:
 * Add an item
@@ -22,6 +23,8 @@ The programm displays a menu where the user can choose between the following opt
 * Search an item by the code
 * Get the value of the items 
 * Display the item with the highest stock
+### Screenshot
+![menu](https://github.com/lasagna92/finalCapstone/blob/f102d4f40c302c3e591b3875ca95eeff49889369/2023-01-04%20(2).png)
 
 ### Technologies
 ***
