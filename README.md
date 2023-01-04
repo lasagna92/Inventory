@@ -27,11 +27,11 @@ The programm displays a menu where the user can choose between the following opt
 ***
 The technology used for this project is [Python 3.10.9](https://www.python.org/downloads/release/python-3109/) 
 
-### Intallation
+### Installation
 ***
 A little intro about the installation. 
 ```
-$ git clone https://example.com
+$ git clone https://github.com/lasagna92/finalCapstone.git
 $ cd ../path/to/the/file
 $ npm install
 $ npm start
