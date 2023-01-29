@@ -34,7 +34,7 @@ The technology used for this project is [Python 3.10.9](https://www.python.org/d
 ***
 A little intro about the installation. 
 ```
-$ git clone https://github.com/lasagna92/finalCapstone.git
+$ git clone https://github.com/lasagna92/Inventory.git
 $ cd ../path/to/the/file
 $ npm install
 $ npm start
